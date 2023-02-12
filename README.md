@@ -16,7 +16,7 @@ every character will level up completing in game quests, dungeons or pvp.
 
 Mission
 We are making a main character that you bring into every game we develop. once in the game your character is then reskinned automatically with
-the in game skins/NFTs you acquire. Our goal is to make your main character as unique as possible. throughout playing the our game you will acquire  zeni
+the in game skins/NFTs you acquire. Our goal is to make your main character as unique as possible. throughout playing our game you will acquire  zeni
 which you can then withdraw. 
 
 user benefits
